@@ -1,4 +1,4 @@
-md -p /library/content/livkreyol
+mkdir -p /library/content/livkreyol
 cd /library/content/livkreyol
 #put Chita Pa Bay files here
-md -p 'Istwa ak Blag/Liv'
+mkdir -p 'Istwa ak Blag/Liv'
