@@ -17,6 +17,7 @@
 <br><h2>Des documents intéressants que tu peux découvrir ici:</h2>
 
 <?php service_link("pathagar", "Lire des livres sur Pathagar", "Pathagar est un serveur qui contient une collection de livres que tu peux lire sans avoir à les télécharger depuis Internet."); ?>
+<?php hard_link("/content/livkreyol", "Lire des livres en creole haitien", "Ici sont des livres et audio en creole haitien."); ?>
 <?php hard_link("/content/syans", "Lire des livres de sciences", "Ici sont des livres educatifs sur sciences en creole haitien pour enfants de 7 - 9 ans."); ?>
 
 <?php // iiab_link("Internet-in-a-Box", 

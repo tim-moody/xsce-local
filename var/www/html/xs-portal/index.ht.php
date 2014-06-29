@@ -17,6 +17,7 @@
 <br><h2>Dokiman Enteresan Ou Ka Dekouvri Sou Li:</h2>
 
 <?php service_link("pathagar", "Li liv sou Pathagar", "Pathagar se yon sevè ki gen yon koleksyon liv pa anndan ke ou ka li san telechaje yo sou Entenèt."); ?>
+<?php hard_link("/content/livkreyol", "Liv Kreyol Yo", "Liv ak Audio: Istwa ak Blag, Ti Koze Kreyol, Fraz Angle ak Kreyol, Fraz Medical Angle ak Kreyol."); ?>
 <?php hard_link("/content/syans", "Li liv syans", "Isi se liv edikatif sou syans ekri an Kreyol ayisyen pou timoum ki gen 7 an a 9 an."); ?>
 
 <?php // iiab_link("Internet In A Box", 
