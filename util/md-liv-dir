@@ -1,14 +1,12 @@
 # create directory structure for Kreyol materials
 
-mkdir -p /library/content/livkreyol
-cd /library/content/livkreyol
-mkdir -p 'Istwa ak Blag/Liv'
-mkdir -p 'Istwa ak Blag/Audio'
-mkdir -p 'Ti Koze Kreyol/Liv'
-mkdir -p 'Ti Koze Kreyol/Audio'
-mkdir -p 'Fraz Angle ak Kreyol/Liv'
-mkdir -p 'Fraz Angle ak Kreyol/Audio'
-mkdir -p 'Fraz Medical Angle ak Kreyol/Liv'
+mkdir -p '/library/content/livkreyol/Istwa ak Blag/Liv'
+mkdir -p '/library/content/livkreyol/Istwa ak Blag/Audio'
+mkdir -p '/library/content/livkreyol/Ti Koze Kreyol/Liv'
+mkdir -p '/library/content/livkreyol/Ti Koze Kreyol/Audio'
+mkdir -p '/library/content/livkreyol/Fraz Angle ak Kreyol/Liv'
+mkdir -p '/library/content/livkreyol/Fraz Angle ak Kreyol/Audio'
+mkdir -p '/library/content/livkreyol/Fraz Medical Angle ak Kreyol/Liv'
 
 #Liv Kreyol Yo
 #    Istwa ak Blag (put Chita Pa Bay files here)
