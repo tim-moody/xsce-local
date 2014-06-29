@@ -1,4 +1,24 @@
+# create directory structure for Kreyol materials
+
 mkdir -p /library/content/livkreyol
 cd /library/content/livkreyol
-#put Chita Pa Bay files here
 mkdir -p 'Istwa ak Blag/Liv'
+mkdir -p 'Istwa ak Blag/Audio'
+mkdir -p 'Ti Koze Kreyol/Liv'
+mkdir -p 'Ti Koze Kreyol/Audio'
+mkdir -p 'Fraz Angle ak Kreyol/Liv'
+mkdir -p 'Fraz Angle ak Kreyol/Audio'
+mkdir -p 'Fraz Medical Angle ak Kreyol/Liv'
+
+#Liv Kreyol Yo
+#    Istwa ak Blag (put Chita Pa Bay files here)
+#           Liv (put PDF file here)
+#           Audio (put Audio file here)
+#    Ti Koze Kreyol (put Ti Koze Kreyol files here)
+#           Liv (put PDF file here)
+#           Audio (put Audio file here)
+#    Fraz Angle ak Kreyol (put Survival Creole files here)
+#           Liv (put PDF file here)
+#           Audio (put Audio file here)
+#    Fraz Medical Angle ak Kreyol (put Haitian-English Medical Phraseology here)
+#           Liv (put PDF file here)
