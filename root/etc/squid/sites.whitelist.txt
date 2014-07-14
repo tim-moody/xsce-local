@@ -1,4 +1,5 @@
 .translate.google.com
+.microsofttranslator.com
 .laptop.org
 .olpcMAP.net
 .mapmeld.appspot.com
