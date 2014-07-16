@@ -1,13 +1,15 @@
-.translate.google.com
-.microsofttranslator.com
+# the leading dot matches anything preceeding
+# this is the list for Haiti
 .laptop.org
 .olpcMAP.net
 .mapmeld.appspot.com
 .googlecode.com
 .googleapis.com
+.translate.google.com
 .gstatic.com
 .unleashkids.org
 .hopeforhaitischildren.org
 .lenouvelliste.com
 .voanouvel.com
 .bing.com
+.microsofttranslator.com
