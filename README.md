@@ -3,7 +3,10 @@ School Server Community Edition (XSCE)- Local Versions
 ======================================================
 
 This repo is a home for files changed by a local installation of xsce.  Because it is
-PUBLICLY VIEWABLE it is not recommended to put passwords here.
+PUBLICLY VIEWABLE it is not recommended to put passwords here.  However, password hashes
+should be OK.
+
+A local_vars.yml file here can contain installation specific overrides of ansible variables.
 
 It is not a fork of the xsce repository with ansible playbooks, but just the files themselves
 with enough directory information to indicate where they go in the install. It should be possible
