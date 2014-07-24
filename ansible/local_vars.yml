@@ -2,4 +2,4 @@
 # Better still, put this file in a branch of https://github.com/XSCE/xsce-local for your deployment
 
 xsce-admin-user: xsce-admin
-xsce-admin-passw-hash: $6$xsce51$wwaNrlONp9ubk62oL2Ad4gWqBdU1eTtkcqyV.GzmsJ.kEzokWr5P/qI/ExZG5Lyu2IhyXbcNREfn.XEBKaQDx/
+xsce-admin-passw-hash: $6$xsce51$STfBJsfSiSOereSv5qlFbeAJNVvS25RZ28S5q5cgXfllBjyf0vvBb0egBFWihySXF5b2osuyKHjV5HjCPMBB41
