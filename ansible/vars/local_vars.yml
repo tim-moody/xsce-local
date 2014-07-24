@@ -2,4 +2,6 @@
 # Better still, put this file in a branch of https://github.com/XSCE/xsce-local for your deployment
 
 xsce_admin_user: xsce-admin
+
+# obtain a password hash with - python -c 'import crypt; print crypt.crypt("<plaintext>", "$6$<plaintext>")'
 xsce_admin_passw_hash: $6$xsce51$STfBJsfSiSOereSv5qlFbeAJNVvS25RZ28S5q5cgXfllBjyf0vvBb0egBFWihySXF5b2osuyKHjV5HjCPMBB41
