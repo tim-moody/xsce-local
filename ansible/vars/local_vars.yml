@@ -14,3 +14,5 @@ gw_block_https: True
 # OpenVPN
 
 openvpn_enabled: True
+
+mysql_enabled: True
