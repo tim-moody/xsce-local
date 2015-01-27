@@ -27,3 +27,5 @@ ajenti_enabled: True
 munin_enabled: True
 monit_enabled: True
 vnstat_enabled: True
+kalite_enabled: True
+kalite_cron_enabled: True
