@@ -18,7 +18,7 @@
 openvpn_enabled: True
 samba_enabled: True
 rachel_enabled: True
-kiwix-serve_enabled: True
+kiwix_serve_enabled: True
 elgg_enabled: True
 owncloud_enabled: True
 #mysql_enabled: True
