@@ -38,7 +38,11 @@
 -->
 <?php kiwix_link("wikipedia_ar_all_2015-05", "Wikipedia in Arabic", "The Wikipedia in Arabic as of May 2015."); ?>
 
+<?php kiwix_link("wiktionary_ar_all_2015-06", "Arabic Dictionary", "The Arabic Wiktionary as of May 2015."); ?>
+
 <?php kiwix_link("/wikipedia_fr_all_2015-03", "Wikipedia in French", "The Wikipedia in French as of March 2015."); ?>
+
+<?php kiwix_link("wiktionary_fr_all_2015-05", "French Dictionary", "The French Wiktionary as of May 2015."); ?>
 
 <?php hard_link("/rachel", "RACHEL", "Remote Area Community Hotspot for Education and Learning: best free materials from the Internet!"); ?>
 
