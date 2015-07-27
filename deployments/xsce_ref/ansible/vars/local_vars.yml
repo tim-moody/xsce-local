@@ -30,4 +30,6 @@ vnstat_enabled: True
 kalite_enabled: True
 kalite_cron_enabled: True
 
+teamviewer_install: False
+teamviewer_enable: False
 xsce_hostname: xsce
