@@ -67,14 +67,14 @@
 
 <?php kiwix_link("ted_en_technology_2015-02", "Technology"); ?>
 <BR><BR>
-
+-->
 <div class="xsMenuHeading">
 	<img src="/common/images/khan-logo-vertical-transparent.png">
 	<h2>Khan Academy</h2>
 </div>
 
 <?php kalite_link("KA Lite", "Offline version of Khan Academy."); ?>
--->
+
 
 <div class="xsMenuHeading">
 	<img src="/common/images/osm.jpg">
