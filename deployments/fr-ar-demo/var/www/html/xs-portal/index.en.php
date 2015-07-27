@@ -36,9 +36,9 @@
 <!--
 <?php kiwix_link("wikipedia_en_for_schools_opt_2013", "Wikipedia for Schools", "6000 articles selected for school children."); ?>
 -->
-<?php kiwix_link("wikipedia_ar_all_2015-07", "Wikipedia in Arabic", "The Wikipedia in Arabic as of May 2015."); ?>
+<?php kiwix_link("wikipedia_ar_all_2015-07", "Wikipedia in Arabic", "The Wikipedia in Arabic as of July 2015."); ?>
 
-<?php kiwix_link("wiktionary_ar_all_2015-06", "Arabic Dictionary", "The Arabic Wiktionary as of May 2015."); ?>
+<?php kiwix_link("wiktionary_ar_all_2015-06", "Arabic Dictionary", "The Arabic Wiktionary as of June 2015."); ?>
 
 <?php kiwix_link("wikipedia_fr_all_2015-03", "Wikipedia in French", "The Wikipedia in French as of March 2015."); ?>
 
