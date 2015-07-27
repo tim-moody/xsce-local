@@ -1,0 +1,34 @@
+# Put variables for your installation that override defaults here
+# Better still, put this file in a branch of https://github.com/XSCE/xsce-local for your deployment
+
+# obtain a password hash with - python -c 'import crypt; print crypt.crypt("<plaintext>", "$6$<salt>")'
+#xsce_admin_passw_hash:
+
+# Whitelist and Https
+
+#gw_squid_whitelist: True
+#gw_block_https: True
+
+# OpenVPN
+
+#openvpn_enabled: True
+
+# enable everything for testing
+
+openvpn_enabled: True
+samba_enabled: True
+rachel_enabled: True
+kiwix_serve_enabled: True
+elgg_enabled: True
+owncloud_enabled: True
+#mysql_enabled: True
+moodle_enabled: True
+ajenti_enabled: True
+munin_enabled: True
+monit_enabled: True
+vnstat_enabled: True
+kalite_enabled: True
+kalite_cron_enabled: True
+
+teamviewer_install: False
+teamviewer_enable: False
