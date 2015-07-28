@@ -18,7 +18,6 @@
 <br><h2>Interesting Things:</h2>
 
 <h2>Wikipedia, Gutenberg Books, Wiktionaries</h2>
-<?php hard_link("/rachel", "RACHEL", "Remote Area Community Hotspot for Education and Learning: best free materials from the Internet!"); ?>
 
 <!-- <h2>More Wikipedias</h2>-->
 
