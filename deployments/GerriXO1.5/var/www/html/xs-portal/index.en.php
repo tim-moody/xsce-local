@@ -10,9 +10,14 @@
 </HEAD>
 <BODY>
 <div id="wrapper">
-<h1>Internet-in-a-Box</h1>
-<h3>School Server powered by XSCE</h3>
-<?php require 'incl/banner.html'; ?>
+	<div id="xsBanner">
+    <?php require 'incl/banner.html'; ?>
+  	<div>
+	    <h1>Internet-in-a-Box</h1>
+      <h3>School Server powered by XSCE</h3>
+	  </div>
+  </div>
+  <div style="clear:both;"></div>
 
 <div id="main">
 <br><h2>Interesting Things:</h2>
