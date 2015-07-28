@@ -33,16 +33,17 @@
 
 <?php kiwix_link("wiktionary_en_all_2015-05", "English Dictionary", "The English Wiktionary."); ?>
 
+<!--
 <?php kiwix_link("wikipedia_en_for_schools_opt_2013", "Wikipedia for Schools", "6000 articles selected for school children."); ?>
 
-<!--
+
 <?php kiwix_link("wikipedia_ar_all_2015-05", "Wikipedia in Arabic", "The Wikipedia in Arabic as of May 2015."); ?>
 
 <?php kiwix_link("/wikipedia_fr_all_2015-03", "Wikipedia in French", "The Wikipedia in French as of March 2015."); ?>
 -->
 
 <?php hard_link("/rachel", "RACHEL", "Remote Area Community Hotspot for Education and Learning: best free materials from the Internet!"); ?>
-
+<!--
 <?php kiwix_link("gutenberg_en_all_10_2014", "Project Gutenberg", "Collection of English classic literature."); ?>
 
 <div class="xsMenuHeading">
@@ -63,7 +64,7 @@
 
 <?php kiwix_link("ted_en_technology_2015-02", "Technology"); ?>
 <BR><BR>
-
+-->
 <div class="xsMenuHeading">
 	<img src="/common/images/khan-logo-vertical-transparent.png">
 	<h2>Khan Academy</h2>
