@@ -3,6 +3,7 @@
 
 # obtain a password hash with - python -c 'import crypt; print crypt.crypt("<plaintext>", "$6$<salt>")'
 #xsce_admin_passw_hash:
+kalite_password_hash: $6$20151008$GtgO5i/9ds1BReSjOTKO/WulVNx2f8ZAYOdEZb6N9WpU4sH5h1V/slGgKusyiVFLeHnraDpm2i2l6gwiFajhX/
 
 # Whitelist and Https
 
