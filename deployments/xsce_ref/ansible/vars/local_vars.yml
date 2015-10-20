@@ -32,4 +32,8 @@ kalite_cron_enabled: True
 
 teamviewer_install: False
 teamviewer_enable: False
-xsce_hostname: xsce
+xsce_hostname: demo
+xsce_domain: xsce.org
+
+wordpress_install: True
+wordpress_enabled: True
