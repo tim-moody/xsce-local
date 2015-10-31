@@ -15,15 +15,12 @@
 
 # enable everything for testing
 
-openvpn_enabled: True
-samba_enabled: True
 rachel_enabled: True
 kiwix_serve_enabled: True
 elgg_enabled: True
 owncloud_enabled: True
 #mysql_enabled: True
 moodle_enabled: True
-ajenti_enabled: True
 munin_enabled: True
 monit_enabled: True
 vnstat_enabled: True

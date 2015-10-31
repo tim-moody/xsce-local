@@ -16,7 +16,6 @@ kalite_password_hash: $6$20151008$GtgO5i/9ds1BReSjOTKO/WulVNx2f8ZAYOdEZb6N9WpU4s
 
 # enable everything for testing
 
-openvpn_enabled: True
 samba_enabled: True
 rachel_enabled: True
 kiwix_serve_enabled: True
@@ -24,7 +23,6 @@ elgg_enabled: True
 owncloud_enabled: True
 #mysql_enabled: True
 moodle_enabled: True
-ajenti_enabled: True
 munin_enabled: True
 monit_enabled: True
 vnstat_enabled: True
